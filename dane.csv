@@ -1,0 +1,426 @@
+;Cel;Aktywa;Płeć;Stan cywilny;Mieszkanie;Praca;Okres;Wiek;Ocena
+1;Drobne AGD;Bardzo niskie;M;Samotna(y);Własne;Fizyczny;13;23;Dobra
+2;Meble;Niskie;M;Rozwiedziona(y);Własne;Umysłowy;25;32;Zła
+3;Nowy samochód;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;19;38;Zła
+4;Meble;Bardzo niskie;M;Samotna(y);Własne;Fizyczny;13;36;Zła
+5;Edukacja;Niskie;M;Samotna(y);Wynajem;Umysłowy;40;31;Dobra
+6;Meble;Brak;M;Stały związek;Własne;Umysłowy;11;25;Dobra
+7;Nowy samochód;Bardzo niskie;M;Stały związek;Własne;Fizyczny;13;26;Dobra
+8;Business;Bardzo niskie;M;Samotna(y);Własne;Fizyczny;14;27;Dobra
+9;Drobne AGD;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;37;25;Zła
+10;Drobne AGD;Brak;K;Rozwiedziona(y);Własne;Umysłowy;25;43;Zła
+11;Business;Bardzo niskie;M;Samotna(y);Wynajem;Umysłowy;49;32;Zła
+12;Nowy samochód;Niskie;M;Samotna(y);Wynajem;Fizyczny;11;34;Dobra
+13;Business;Bardzo niskie;M;Stały związek;Własne;Umysłowy;10;26;Dobra
+14;Nowy samochód;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;25;44;Zła
+15;Nowy samochód;Bardzo niskie;M;Samotna(y);Własne;Fizyczny;13;46;Dobra
+16;Używany samochód;Bardzo niskie;M;Rozwiedziona(y);Własne;Umysłowy;31;39;Dobra
+17;Meble;Bardzo niskie;K;Rozwiedziona(y);Własne;Umysłowy;49;25;Zła
+18;Nowy samochód;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;13;31;Dobra
+19;Remont;Brak;M;Samotna(y);Własne;Umysłowy;28;47;Dobra
+20;Edukacja;Bardzo wysokie;K;Rozwiedziona(y);Wynajem;Umysłowy;7;23;Zła
+21;Meble;Wysokie;K;Rozwiedziona(y);Własne;Umysłowy;34;22;Zła
+22;Meble;Niskie;K;Rozwiedziona(y);Wynajem;Umysłowy;13;26;Zła
+23;Meble;Brak;M;Stały związek;Własne;Umysłowy;25;19;Zła
+24;Meble;Bardzo niskie;K;Rozwiedziona(y);Własne;Umysłowy;37;27;Zła
+25;Nowy samochód;Wysokie;M;Samotna(y);Wynajem;Fizyczny;11;39;Dobra
+26;Business;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;22;26;Dobra
+27;Używany samochód;Brak;M;Samotna(y);Wynajem;Umysłowy;19;50;Zła
+28;Używany samochód;Brak;M;Samotna(y);Wynajem;Umysłowy;49;34;Dobra
+29;Drobne AGD;Bardzo niskie;M;Samotna(y);Wynajem;Umysłowy;37;23;Dobra
+30;Drobne AGD;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;19;23;Dobra
+31;Edukacja;Niskie;M;Samotna(y);Wynajem;Umysłowy;37;46;Zła
+32;Drobne AGD;Brak;M;Samotna(y);Własne;Umysłowy;31;35;Dobra
+33;Drobne AGD;Bardzo niskie;K;Rozwiedziona(y);Własne;Umysłowy;13;28;Dobra
+34;Business;Bardzo niskie;M;Samotna(y);Wynajem;Umysłowy;16;25;Dobra
+35;Business;Bardzo niskie;K;Rozwiedziona(y);Wynajem;Umysłowy;49;36;Zła
+36;Drobne AGD;Bardzo niskie;M;Samotna(y);Własne;Fizyczny;5;41;Dobra
+37;Meble;Bardzo niskie;M;Rozwiedziona(y);Własne;Umysłowy;25;54;Zła
+38;Drobne AGD;Bardzo niskie;K;Rozwiedziona(y);Własne;Fizyczny;9;43;Dobra
+39;Drobne AGD;Bardzo niskie;M;Stały związek;Własne;Umysłowy;49;33;Zła
+40;Nowy samochód;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;13;34;Zła
+41;Inne;Brak;M;Samotna(y);Wynajem;Fizyczny;49;39;Dobra
+42;Używany samochód;Bardzo niskie;M;Samotna(y);Własne;Fizyczny;25;34;Dobra
+43;Drobne AGD;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;37;30;Dobra
+44;Meble;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;31;48;Zła
+45;Meble;Bardzo wysokie;K;Rozwiedziona(y);Własne;Umysłowy;12;19;Dobra
+46;Drobne AGD;Bardzo niskie;M;Stały związek;Wynajem;Umysłowy;7;29;Dobra
+47;Meble;Brak;K;Rozwiedziona(y);Wynajem;Umysłowy;19;26;Zła
+48;Nowy samochód;Bardzo niskie;M;Samotna(y);Wynajem;Umysłowy;17;42;Zła
+49;Business;Bardzo niskie;M;Samotna(y);Wynajem;Umysłowy;25;30;Zła
+50;Drobne AGD;Bardzo niskie;M;Stały związek;Własne;Umysłowy;19;38;Dobra
+51;Drobne AGD;Bardzo niskie;M;Stały związek;Własne;Umysłowy;25;21;Zła
+52;Meble;Brak;K;Rozwiedziona(y);Wynajem;Fizyczny;16;32;Dobra
+53;Business;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;28;35;Zła
+54;Nowy samochód;Bardzo niskie;M;Rozwiedziona(y);Własne;Umysłowy;22;46;Dobra
+55;Używany samochód;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;25;37;Dobra
+56;Edukacja;Brak;M;Samotna(y);Własne;Umysłowy;37;39;Zła
+57;Meble;Bardzo niskie;K;Rozwiedziona(y);Własne;Umysłowy;13;29;Dobra
+58;Nowy samochód;Bardzo niskie;M;Samotna(y);Wynajem;Fizyczny;19;27;Dobra
+59;Nowy samochód;Bardzo niskie;K;Rozwiedziona(y);Wynajem;Umysłowy;19;22;Zła
+60;Meble;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;37;40;Zła
+61;Nowy samochód;Bardzo niskie;M;Samotna(y);Własne;Fizyczny;29;44;Zła
+62;Nowy samochód;Brak;M;Samotna(y);Własne;Fizyczny;11;26;Zła
+63;Drobne AGD;Bardzo niskie;K;Rozwiedziona(y);Własne;Fizyczny;13;57;Dobra
+64;Nowy samochód;Niskie;M;Samotna(y);Własne;Fizyczny;19;34;Dobra
+65;Drobne AGD;Bardzo niskie;M;Stały związek;Własne;Umysłowy;25;47;Zła
+66;Drobne AGD;Wysokie;M;Samotna(y);Własne;Umysłowy;16;46;Dobra
+67;Business;Niskie;M;Samotna(y);Własne;Fizyczny;13;38;Dobra
+68;Używany samochód;Brak;K;Rozwiedziona(y);Własne;Umysłowy;31;52;Zła
+69;Meble;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;7;34;Dobra
+70;Meble;Wysokie;M;Samotna(y);Wynajem;Umysłowy;25;29;Zła
+71;Nowy samochód;Brak;M;Samotna(y);Własne;Fizyczny;22;39;Zła
+72;Drobne AGD;Bardzo niskie;M;Samotna(y);Własne;Fizyczny;10;36;Dobra
+73;Business;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;28;25;Dobra
+74;Meble;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;13;59;Zła
+75;Drobne AGD;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;37;27;Dobra
+76;Nowy samochód;Bardzo niskie;K;Rozwiedziona(y);Wynajem;Umysłowy;13;24;Zła
+77;Business;Bardzo niskie;K;Rozwiedziona(y);Własne;Fizyczny;13;25;Zła
+78;Business;Niskie;M;Samotna(y);Własne;Umysłowy;49;29;Dobra
+79;Remont;Bardzo niskie;M;Samotna(y);Własne;Fizyczny;43;64;Dobra
+80;Business;Brak;M;Samotna(y);Własne;Umysłowy;25;31;Dobra
+81;Nowy samochód;Bardzo niskie;M;Samotna(y);Własne;Fizyczny;12;38;Dobra
+82;Edukacja;Bardzo niskie;M;Samotna(y);Wynajem;Umysłowy;61;41;Zła
+83;Nowy samochód;Bardzo niskie;K;Rozwiedziona(y);Własne;Fizyczny;19;22;Zła
+84;Edukacja;Niskie;K;Rozwiedziona(y);Własne;Umysłowy;19;29;Zła
+85;Nowy samochód;Bardzo niskie;M;Samotna(y);Wynajem;Umysłowy;16;32;Zła
+86;Drobne AGD;Bardzo niskie;K;Rozwiedziona(y);Własne;Umysłowy;25;34;Zła
+87;Używany samochód;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;37;23;Zła
+88;Drobne AGD;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;13;21;Zła
+89;Drobne AGD;Niskie;K;Rozwiedziona(y);Wynajem;Umysłowy;37;49;Zła
+90;Meble;Bardzo niskie;M;Rozwiedziona(y);Własne;Umysłowy;31;31;Dobra
+91;Edukacja;Brak;K;Rozwiedziona(y);Wynajem;Fizyczny;10;40;Dobra
+92;Drobne AGD;Bardzo niskie;K;Rozwiedziona(y);Własne;Umysłowy;7;28;Dobra
+93;Remont;Bardzo niskie;M;Stały związek;Własne;Fizyczny;7;21;Dobra
+94;Business;Bardzo niskie;M;Rozwiedziona(y);Własne;Umysłowy;25;30;Zła
+95;Drobne AGD;Bardzo niskie;K;Rozwiedziona(y);Własne;Umysłowy;25;37;Dobra
+96;Drobne AGD;Bardzo wysokie;M;Samotna(y);Własne;Umysłowy;25;33;Dobra
+97;Drobne AGD;Bardzo niskie;M;Samotna(y);Wynajem;Umysłowy;46;22;Zła
+98;Nowy samochód;Bardzo niskie;K;Rozwiedziona(y);Własne;Fizyczny;13;23;Zła
+99;Drobne AGD;Bardzo niskie;K;Rozwiedziona(y);Własne;Umysłowy;49;21;Zła
+100;Meble;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;19;40;Dobra
+101;Drobne AGD;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;19;36;Zła
+102;Nowy samochód;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;10;29;Dobra
+103;Rehabilitacja;Brak;M;Samotna(y);Własne;Umysłowy;13;37;Dobra
+104;Meble;Bardzo niskie;K;Rozwiedziona(y);Własne;Umysłowy;19;26;Dobra
+105;Nowy samochód;Bardzo niskie;M;Samotna(y);Wynajem;Umysłowy;25;37;Zła
+106;Edukacja;Bardzo niskie;M;Samotna(y);Wynajem;Fizyczny;13;39;Zła
+107;Business;Bardzo niskie;M;Stały związek;Własne;Umysłowy;19;27;Zła
+108;Meble;Wysokie;K;Rozwiedziona(y);Wynajem;Umysłowy;16;19;Dobra
+109;Nowy samochód;Bardzo niskie;M;Samotna(y);Wynajem;Umysłowy;49;45;Zła
+110;Używany samochód;Bardzo niskie;M;Samotna(y);Wynajem;Umysłowy;13;34;Zła
+111;Drobne AGD;Bardzo niskie;K;Rozwiedziona(y);Wynajem;Fizyczny;13;43;Dobra
+112;Meble;Bardzo niskie;M;Samotna(y);Własne;Fizyczny;19;33;Zła
+113;Business;Bardzo niskie;M;Samotna(y);Własne;Fizyczny;25;35;Zła
+114;Używany samochód;Bardzo niskie;M;Samotna(y);Wynajem;Umysłowy;37;31;Dobra
+115;Meble;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;25;25;Dobra
+116;Meble;Bardzo niskie;K;Rozwiedziona(y);Własne;Umysłowy;19;27;Dobra
+117;Drobne AGD;Bardzo wysokie;K;Rozwiedziona(y);Wynajem;Umysłowy;25;56;Dobra
+118;Używany samochód;Brak;M;Samotna(y);Własne;Umysłowy;25;45;Dobra
+119;Większe AGD;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;49;53;Zła
+120;Meble;Bardzo niskie;K;Rozwiedziona(y);Własne;Umysłowy;9;23;Zła
+121;Meble;Bardzo niskie;K;Rozwiedziona(y);Własne;Umysłowy;13;25;Dobra
+122;Drobne AGD;Bardzo niskie;K;Rozwiedziona(y);Własne;Umysłowy;7;63;Dobra
+123;Drobne AGD;Wysokie;M;Samotna(y);Własne;Umysłowy;25;34;Zła
+124;Meble;Bardzo niskie;M;Samotna(y);Własne;Fizyczny;19;24;Zła
+125;Nowy samochód;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;19;35;Zła
+126;Nowy samochód;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;25;30;Zła
+127;Nowy samochód;Niskie;M;Samotna(y);Wynajem;Umysłowy;37;29;Dobra
+128;Meble;Niskie;K;Rozwiedziona(y);Wynajem;Umysłowy;31;20;Zła
+129;Drobne AGD;Brak;M;Samotna(y);Własne;Umysłowy;16;49;Dobra
+130;Business;Brak;M;Samotna(y);Wynajem;Fizyczny;13;56;Dobra
+131;Meble;Brak;M;Samotna(y);Wynajem;Umysłowy;13;48;Dobra
+132;Drobne AGD;Bardzo niskie;K;Rozwiedziona(y);Własne;Umysłowy;22;24;Zła
+133;Drobne AGD;Wysokie;M;Samotna(y);Własne;Fizyczny;28;22;Zła
+134;Drobne AGD;Niskie;M;Samotna(y);Własne;Umysłowy;25;30;Zła
+135;Inne;Brak;M;Samotna(y);Własne;Umysłowy;25;39;Zła
+136;Business;Bardzo niskie;M;Stały związek;Własne;Fizyczny;25;20;Dobra
+137;Remont;Bardzo niskie;K;Rozwiedziona(y);Własne;Umysłowy;19;22;Zła
+138;Nowy samochód;Niskie;M;Stały związek;Wynajem;Umysłowy;16;24;Zła
+139;Meble;Bardzo niskie;M;Rozwiedziona(y);Własne;Umysłowy;13;41;Dobra
+140;Meble;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;25;32;Dobra
+141;Drobne AGD;Bardzo niskie;K;Rozwiedziona(y);Własne;Umysłowy;19;23;Zła
+142;Drobne AGD;Bardzo wysokie;K;Rozwiedziona(y);Wynajem;Umysłowy;13;41;Dobra
+143;Meble;Bardzo niskie;M;Samotna(y);Wynajem;Umysłowy;13;52;Zła
+144;Drobne AGD;Wysokie;M;Samotna(y);Własne;Fizyczny;13;65;Zła
+145;Business;Bardzo niskie;K;Rozwiedziona(y);Własne;Umysłowy;13;26;Dobra
+146;Remont;Bardzo niskie;M;Rozwiedziona(y);Własne;Fizyczny;31;33;Zła
+147;Drobne AGD;Niskie;K;Rozwiedziona(y);Własne;Fizyczny;12;56;Dobra
+148;Meble;Bardzo niskie;K;Rozwiedziona(y);Własne;Fizyczny;25;24;Zła
+149;Nowy samochód;Bardzo niskie;K;Rozwiedziona(y);Wynajem;Umysłowy;28;20;Zła
+150;Nowy samochód;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;16;35;Dobra
+151;Używany samochód;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;25;34;Dobra
+152;Nowy samochód;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;13;38;Dobra
+153;Używany samochód;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;25;34;Dobra
+154;Nowy samochód;Niskie;M;Samotna(y);Własne;Umysłowy;25;37;Dobra
+155;Drobne AGD;Bardzo niskie;M;Samotna(y);Wynajem;Umysłowy;19;31;Dobra
+156;Nowy samochód;Brak;M;Samotna(y);Wynajem;Umysłowy;19;67;Zła
+157;Używany samochód;Bardzo wysokie;M;Samotna(y);Własne;Umysłowy;25;26;Dobra
+158;Edukacja;Bardzo niskie;K;Rozwiedziona(y);Własne;Umysłowy;37;24;Zła
+159;Meble;Bardzo niskie;M;Samotna(y);Wynajem;Umysłowy;25;21;Dobra
+160;Większe AGD;Bardzo niskie;M;Stały związek;Własne;Fizyczny;19;46;Zła
+161;Meble;Bardzo niskie;M;Samotna(y);Wynajem;Umysłowy;25;22;Zła
+162;Meble;Bardzo niskie;K;Rozwiedziona(y);Wynajem;Umysłowy;19;20;Dobra
+163;Business;Niskie;M;Rozwiedziona(y);Wynajem;Fizyczny;22;60;Zła
+164;Używany samochód;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;49;25;Dobra
+165;Drobne AGD;Bardzo niskie;K;Rozwiedziona(y);Wynajem;Umysłowy;10;21;Zła
+166;Drobne AGD;Bardzo niskie;K;Rozwiedziona(y);Własne;Umysłowy;13;22;Dobra
+167;Używany samochód;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;28;29;Dobra
+168;Drobne AGD;Bardzo niskie;M;Samotna(y);Własne;Fizyczny;13;56;Zła
+169;Remont;Bardzo niskie;M;Samotna(y);Wynajem;Fizyczny;37;32;Zła
+170;Meble;Bardzo niskie;M;Rozwiedziona(y);Własne;Fizyczny;11;30;Dobra
+171;Używany samochód;Bardzo niskie;M;Stały związek;Wynajem;Umysłowy;37;27;Zła
+172;Nowy samochód;Bardzo niskie;K;Rozwiedziona(y);Własne;Fizyczny;13;37;Dobra
+173;Nowy samochód;Bardzo niskie;M;Samotna(y);Własne;Fizyczny;7;39;Dobra
+174;Nowy samochód;Bardzo wysokie;M;Stały związek;Własne;Fizyczny;7;26;Dobra
+175;Remont;Bardzo niskie;M;Rozwiedziona(y);Własne;Umysłowy;25;32;Dobra
+176;Meble;Bardzo wysokie;M;Samotna(y);Własne;Umysłowy;22;31;Dobra
+177;Używany samochód;Wysokie;M;Samotna(y);Własne;Umysłowy;16;35;Dobra
+178;Drobne AGD;Wysokie;M;Samotna(y);Własne;Umysłowy;19;31;Dobra
+179;Nowy samochód;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;22;64;Dobra
+180;Business;Bardzo niskie;M;Rozwiedziona(y);Własne;Umysłowy;37;27;Zła
+181;Drobne AGD;Niskie;K;Rozwiedziona(y);Własne;Fizyczny;25;31;Zła
+182;Drobne AGD;Niskie;M;Stały związek;Własne;Fizyczny;13;32;Zła
+183;Business;Bardzo niskie;M;Samotna(y);Własne;Fizyczny;6;73;Dobra
+184;Meble;Bardzo niskie;K;Rozwiedziona(y);Własne;Fizyczny;13;30;Dobra
+185;Meble;Bardzo niskie;M;Stały związek;Własne;Fizyczny;19;42;Zła
+186;Drobne AGD;Bardzo wysokie;M;Samotna(y);Własne;Umysłowy;19;45;Dobra
+187;Drobne AGD;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;7;27;Dobra
+188;Meble;Bardzo niskie;K;Rozwiedziona(y);Wynajem;Fizyczny;25;22;Zła
+189;Używany samochód;Bardzo wysokie;M;Samotna(y);Własne;Umysłowy;28;26;Dobra
+190;Business;Brak;M;Samotna(y);Własne;Umysłowy;25;33;Dobra
+191;Nowy samochód;Niskie;K;Rozwiedziona(y);Własne;Umysłowy;19;27;Zła
+192;Nowy samochód;Brak;K;Rozwiedziona(y);Wynajem;Umysłowy;25;24;Zła
+193;Meble;Bardzo niskie;M;Stały związek;Własne;Umysłowy;31;21;Dobra
+194;Nowy samochód;Bardzo niskie;K;Rozwiedziona(y);Wynajem;Fizyczny;25;28;Zła
+195;Drobne AGD;Brak;M;Samotna(y);Własne;Umysłowy;13;51;Zła
+196;Meble;Bardzo niskie;K;Rozwiedziona(y);Własne;Umysłowy;19;21;Zła
+197;Drobne AGD;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;25;27;Dobra
+198;Business;Wysokie;M;Samotna(y);Własne;Fizyczny;22;40;Zła
+199;Drobne AGD;Bardzo niskie;M;Samotna(y);Wynajem;Umysłowy;16;34;Dobra
+200;Nowy samochód;Bardzo niskie;K;Rozwiedziona(y);Własne;Fizyczny;48;34;Dobra
+201;Edukacja;Brak;M;Samotna(y);Własne;Fizyczny;10;63;Dobra
+202;Nowy samochód;Niskie;M;Samotna(y);Własne;Umysłowy;16;33;Zła
+203;Nowy samochód;Brak;K;Rozwiedziona(y);Własne;Umysłowy;22;28;Zła
+204;Nowy samochód;Bardzo niskie;K;Rozwiedziona(y);Własne;Umysłowy;37;24;Zła
+205;Meble;Bardzo wysokie;K;Rozwiedziona(y);Wynajem;Fizyczny;13;18;Dobra
+206;Drobne AGD;Niskie;K;Rozwiedziona(y);Własne;Umysłowy;14;63;Dobra
+207;Business;Brak;M;Rozwiedziona(y);Własne;Umysłowy;49;37;Zła
+208;Inne;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;25;38;Zła
+209;Drobne AGD;Bardzo niskie;M;Stały związek;Wynajem;Umysłowy;13;22;Zła
+210;Nowy samochód;Niskie;K;Rozwiedziona(y);Własne;Fizyczny;7;31;Zła
+211;Drobne AGD;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;19;31;Dobra
+212;Nowy samochód;Bardzo niskie;M;Samotna(y);Wynajem;Umysłowy;25;42;Zła
+213;Meble;Bardzo niskie;M;Samotna(y);Wynajem;Fizyczny;11;24;Zła
+214;Business;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;31;65;Zła
+215;Używany samochód;Bardzo wysokie;M;Samotna(y);Wynajem;Umysłowy;16;22;Dobra
+216;Używany samochód;Wysokie;K;Rozwiedziona(y);Wynajem;Fizyczny;7;22;Dobra
+217;Drobne AGD;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;13;51;Dobra
+218;Drobne AGD;Bardzo niskie;K;Rozwiedziona(y);Własne;Fizyczny;13;23;Zła
+219;Edukacja;Niskie;K;Rozwiedziona(y);Własne;Umysłowy;16;30;Dobra
+220;Drobne AGD;Bardzo niskie;M;Stały związek;Własne;Umysłowy;19;32;Zła
+221;Większe AGD;Niskie;K;Rozwiedziona(y);Własne;Umysłowy;13;21;Zła
+222;Edukacja;Bardzo niskie;K;Rozwiedziona(y);Własne;Umysłowy;13;52;Zła
+223;Meble;Bardzo niskie;K;Rozwiedziona(y);Wynajem;Umysłowy;31;22;Zła
+224;Business;Brak;M;Samotna(y);Własne;Umysłowy;19;41;Dobra
+225;Nowy samochód;Bardzo niskie;K;Rozwiedziona(y);Wynajem;Umysłowy;37;53;Dobra
+226;Remont;Bardzo niskie;K;Rozwiedziona(y);Wynajem;Fizyczny;19;54;Zła
+227;Meble;Bardzo niskie;M;Samotna(y);Własne;Fizyczny;13;37;Dobra
+228;Drobne AGD;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;49;27;Zła
+229;Nowy samochód;Wysokie;K;Rozwiedziona(y);Własne;Umysłowy;13;25;Zła
+230;Drobne AGD;Bardzo niskie;K;Rozwiedziona(y);Własne;Umysłowy;13;34;Dobra
+231;Business;Bardzo niskie;M;Rozwiedziona(y);Własne;Umysłowy;37;29;Zła
+232;Nowy samochód;Bardzo niskie;M;Samotna(y);Własne;Fizyczny;10;27;Zła
+233;Drobne AGD;Brak;K;Rozwiedziona(y);Własne;Fizyczny;13;32;Zła
+234;Używany samochód;Brak;M;Samotna(y);Własne;Umysłowy;37;29;Dobra
+235;Nowy samochód;Bardzo niskie;M;Samotna(y);Własne;Fizyczny;13;32;Zła
+236;Drobne AGD;Bardzo niskie;K;Rozwiedziona(y);Wynajem;Fizyczny;25;28;Zła
+237;Meble;Bardzo niskie;K;Rozwiedziona(y);Wynajem;Fizyczny;22;25;Dobra
+238;Nowy samochód;Brak;K;Rozwiedziona(y);Wynajem;Umysłowy;13;51;Dobra
+239;Używany samochód;Niskie;M;Samotna(y);Własne;Umysłowy;40;44;Dobra
+240;Business;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;19;33;Dobra
+241;Meble;Bardzo niskie;K;Rozwiedziona(y);Wynajem;Fizyczny;5;22;Dobra
+242;Używany samochód;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;22;35;Dobra
+243;Drobne AGD;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;16;30;Dobra
+244;Drobne AGD;Bardzo niskie;M;Stały związek;Własne;Fizyczny;7;27;Dobra
+245;Business;Bardzo niskie;K;Rozwiedziona(y);Wynajem;Umysłowy;49;23;Zła
+246;Meble;Bardzo niskie;K;Rozwiedziona(y);Wynajem;Umysłowy;13;19;Zła
+247;Drobne AGD;Wysokie;M;Samotna(y);Własne;Fizyczny;7;44;Dobra
+248;Drobne AGD;Bardzo niskie;M;Samotna(y);Własne;Fizyczny;5;41;Dobra
+249;Nowy samochód;Bardzo niskie;K;Rozwiedziona(y);Własne;Umysłowy;13;35;Dobra
+250;Nowy samochód;Bardzo niskie;K;Rozwiedziona(y);Wynajem;Fizyczny;16;25;Zła
+251;Używany samochód;Bardzo niskie;M;Samotna(y);Wynajem;Umysłowy;25;28;Dobra
+252;Drobne AGD;Brak;M;Samotna(y);Własne;Umysłowy;16;34;Dobra
+253;Business;Bardzo niskie;K;Rozwiedziona(y);Własne;Umysłowy;28;31;Dobra
+254;Edukacja;Bardzo niskie;M;Rozwiedziona(y);Wynajem;Umysłowy;22;32;Zła
+255;Meble;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;37;41;Zła
+256;Business;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;49;22;Zła
+257;Inne;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;25;28;Zła
+258;Meble;Niskie;K;Rozwiedziona(y);Wynajem;Umysłowy;10;21;Dobra
+259;Nowy samochód;Niskie;M;Samotna(y);Własne;Umysłowy;37;41;Zła
+260;Nowy samochód;Brak;M;Samotna(y);Własne;Fizyczny;25;36;Zła
+261;Business;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;25;26;Zła
+262;Używany samochód;Bardzo niskie;M;Samotna(y);Wynajem;Umysłowy;31;37;Dobra
+263;Business;Niskie;M;Samotna(y);Wynajem;Umysłowy;25;35;Dobra
+264;Drobne AGD;Niskie;M;Samotna(y);Własne;Umysłowy;13;34;Dobra
+265;Nowy samochód;Wysokie;M;Samotna(y);Wynajem;Umysłowy;49;43;Zła
+266;Nowy samochód;Wysokie;K;Rozwiedziona(y);Własne;Umysłowy;22;30;Dobra
+267;Meble;Wysokie;M;Samotna(y);Wynajem;Umysłowy;25;31;Dobra
+268;Remont;Bardzo niskie;M;Samotna(y);Wynajem;Umysłowy;25;43;Dobra
+269;Drobne AGD;Bardzo niskie;K;Rozwiedziona(y);Własne;Umysłowy;31;24;Dobra
+270;Drobne AGD;Bardzo wysokie;M;Samotna(y);Własne;Umysłowy;49;26;Zła
+271;Meble;Bardzo niskie;K;Rozwiedziona(y);Wynajem;Umysłowy;16;45;Dobra
+272;Meble;Bardzo niskie;M;Samotna(y);Własne;Fizyczny;16;26;Dobra
+273;Meble;Bardzo niskie;K;Rozwiedziona(y);Własne;Umysłowy;7;48;Dobra
+274;Meble;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;19;43;Zła
+275;Inne;Niskie;K;Rozwiedziona(y);Wynajem;Umysłowy;61;59;Zła
+276;Edukacja;Bardzo niskie;K;Rozwiedziona(y);Własne;Umysłowy;7;55;Dobra
+277;Drobne AGD;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;25;29;Zła
+278;Nowy samochód;Brak;K;Rozwiedziona(y);Własne;Umysłowy;19;32;Zła
+279;Business;Bardzo wysokie;M;Samotna(y);Własne;Umysłowy;25;53;Zła
+280;Business;Niskie;M;Samotna(y);Własne;Fizyczny;7;33;Dobra
+281;Edukacja;Bardzo niskie;K;Rozwiedziona(y);Wynajem;Fizyczny;13;56;Dobra
+282;Nowy samochód;Brak;M;Samotna(y);Wynajem;Umysłowy;61;33;Dobra
+283;Używany samochód;Brak;M;Samotna(y);Wynajem;Umysłowy;37;46;Zła
+284;Używany samochód;Bardzo niskie;M;Samotna(y);Wynajem;Umysłowy;43;54;Dobra
+285;Nowy samochód;Bardzo niskie;K;Rozwiedziona(y);Własne;Umysłowy;19;22;Dobra
+286;Nowy samochód;Bardzo niskie;M;Samotna(y);Wynajem;Umysłowy;12;35;Dobra
+287;Nowy samochód;Bardzo niskie;M;Samotna(y);Własne;Fizyczny;25;46;Zła
+288;Drobne AGD;Brak;K;Rozwiedziona(y);Własne;Umysłowy;43;29;Zła
+289;Nowy samochód;Bardzo niskie;K;Rozwiedziona(y);Wynajem;Umysłowy;25;22;Zła
+290;Nowy samochód;Brak;M;Stały związek;Własne;Umysłowy;25;53;Dobra
+291;Meble;Bardzo niskie;M;Rozwiedziona(y);Własne;Umysłowy;25;42;Zła
+292;Rehabilitacja;Bardzo niskie;M;Stały związek;Wynajem;Umysłowy;13;20;Zła
+293;Nowy samochód;Bardzo niskie;K;Rozwiedziona(y);Własne;Umysłowy;19;35;Dobra
+294;Edukacja;Bardzo niskie;K;Rozwiedziona(y);Własne;Umysłowy;10;33;Zła
+295;Edukacja;Brak;M;Stały związek;Własne;Umysłowy;37;26;Dobra
+296;Meble;Bardzo niskie;M;Samotna(y);Wynajem;Umysłowy;19;46;Dobra
+297;Nowy samochód;Bardzo niskie;K;Rozwiedziona(y);Własne;Umysłowy;13;28;Zła
+298;Drobne AGD;Wysokie;M;Samotna(y);Własne;Umysłowy;37;38;Dobra
+299;Business;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;19;35;Zła
+300;Nowy samochód;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;13;47;Zła
+301;Drobne AGD;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;10;23;Dobra
+302;Nowy samochód;Bardzo niskie;M;Samotna(y);Wynajem;Umysłowy;37;56;Zła
+303;Meble;Wysokie;K;Rozwiedziona(y);Wynajem;Fizyczny;13;28;Zła
+304;Nowy samochód;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;11;48;Dobra
+305;Meble;Bardzo wysokie;M;Samotna(y);Własne;Umysłowy;19;27;Dobra
+306;Drobne AGD;Niskie;M;Stały związek;Własne;Umysłowy;73;23;Zła
+307;Drobne AGD;Bardzo niskie;K;Rozwiedziona(y);Wynajem;Umysłowy;19;24;Zła
+308;Meble;Bardzo niskie;K;Rozwiedziona(y);Własne;Umysłowy;11;22;Dobra
+309;Nowy samochód;Bardzo niskie;M;Samotna(y);Wynajem;Umysłowy;13;42;Zła
+310;Nowy samochód;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;13;25;Zła
+311;Nowy samochód;Niskie;K;Rozwiedziona(y);Wynajem;Fizyczny;11;47;Zła
+312;Nowy samochód;Bardzo niskie;K;Rozwiedziona(y);Wynajem;Umysłowy;19;32;Zła
+313;Nowy samochód;Bardzo niskie;M;Samotna(y);Wynajem;Umysłowy;7;25;Dobra
+314;Meble;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;37;36;Dobra
+315;Drobne AGD;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;43;25;Zła
+316;Meble;Brak;M;Stały związek;Własne;Umysłowy;7;26;Dobra
+317;Nowy samochód;Bardzo niskie;K;Rozwiedziona(y);Własne;Fizyczny;7;53;Dobra
+318;Remont;Bardzo niskie;K;Rozwiedziona(y);Własne;Umysłowy;19;66;Dobra
+319;Nowy samochód;Brak;K;Rozwiedziona(y);Własne;Umysłowy;49;23;Dobra
+320;Drobne AGD;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;13;25;Dobra
+321;Drobne AGD;Bardzo niskie;M;Samotna(y);Własne;Fizyczny;46;24;Zła
+322;Nowy samochód;Bardzo niskie;M;Samotna(y);Wynajem;Fizyczny;19;31;Zła
+323;Używany samochód;Bardzo niskie;K;Rozwiedziona(y);Wynajem;Fizyczny;49;57;Zła
+324;Nowy samochód;Bardzo niskie;M;Rozwiedziona(y);Własne;Umysłowy;15;44;Zła
+325;Inne;Bardzo niskie;M;Rozwiedziona(y);Własne;Umysłowy;37;42;Dobra
+326;Używany samochód;Wysokie;K;Rozwiedziona(y);Wynajem;Umysłowy;25;27;Zła
+327;Drobne AGD;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;13;51;Dobra
+328;Używany samochód;Bardzo niskie;M;Samotna(y);Wynajem;Umysłowy;49;23;Zła
+329;Nowy samochód;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;19;31;Zła
+330;Meble;Bardzo niskie;K;Rozwiedziona(y);Wynajem;Umysłowy;37;22;Zła
+331;Nowy samochód;Brak;M;Samotna(y);Własne;Umysłowy;37;35;Dobra
+332;Business;Brak;M;Samotna(y);Wynajem;Umysłowy;49;37;Dobra
+333;Drobne AGD;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;25;35;Dobra
+334;Nowy samochód;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;19;30;Zła
+335;Edukacja;Bardzo niskie;M;Samotna(y);Wynajem;Umysłowy;49;49;Zła
+336;Edukacja;Brak;K;Rozwiedziona(y);Własne;Umysłowy;25;32;Dobra
+337;Meble;Wysokie;M;Samotna(y);Własne;Umysłowy;25;52;Dobra
+338;Nowy samochód;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;13;45;Zła
+339;Drobne AGD;Bardzo niskie;M;Stały związek;Własne;Umysłowy;13;23;Dobra
+340;Meble;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;13;41;Dobra
+341;Meble;Bardzo niskie;K;Rozwiedziona(y);Własne;Umysłowy;10;28;Zła
+342;Meble;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;37;30;Zła
+343;Drobne AGD;Brak;M;Samotna(y);Własne;Umysłowy;37;50;Dobra
+344;Business;Bardzo niskie;K;Rozwiedziona(y);Wynajem;Umysłowy;49;58;Zła
+345;Drobne AGD;Brak;M;Samotna(y);Własne;Umysłowy;49;36;Dobra
+346;Drobne AGD;Bardzo niskie;M;Samotna(y);Wynajem;Fizyczny;25;23;Zła
+347;Drobne AGD;Brak;M;Samotna(y);Własne;Fizyczny;31;48;Dobra
+348;Drobne AGD;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;11;37;Dobra
+349;Drobne AGD;Niskie;M;Samotna(y);Wynajem;Umysłowy;46;20;Zła
+350;Nowy samochód;Bardzo niskie;K;Rozwiedziona(y);Własne;Umysłowy;31;23;Zła
+351;Meble;Wysokie;K;Rozwiedziona(y);Własne;Umysłowy;37;39;Dobra
+352;Edukacja;Brak;M;Samotna(y);Wynajem;Fizyczny;37;34;Dobra
+353;Remont;Brak;K;Rozwiedziona(y);Własne;Umysłowy;13;22;Dobra
+354;Drobne AGD;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;10;21;Zła
+355;Meble;Bardzo niskie;M;Samotna(y);Wynajem;Umysłowy;25;38;Zła
+356;Drobne AGD;Brak;M;Samotna(y);Wynajem;Umysłowy;13;36;Dobra
+357;Drobne AGD;Bardzo niskie;M;Samotna(y);Własne;Fizyczny;10;26;Dobra
+358;Remont;Niskie;M;Samotna(y);Własne;Umysłowy;10;47;Dobra
+359;Drobne AGD;Brak;M;Samotna(y);Wynajem;Umysłowy;16;38;Zła
+360;Drobne AGD;Bardzo niskie;M;Samotna(y);Wynajem;Umysłowy;13;27;Zła
+361;Nowy samochód;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;25;25;Dobra
+362;Drobne AGD;Brak;M;Samotna(y);Własne;Umysłowy;19;28;Dobra
+363;Nowy samochód;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;7;67;Zła
+364;Business;Bardzo niskie;M;Stały związek;Własne;Umysłowy;9;25;Dobra
+365;Drobne AGD;Wysokie;M;Stały związek;Własne;Umysłowy;13;34;Dobra
+366;Używany samochód;Bardzo niskie;M;Samotna(y);Wynajem;Umysłowy;49;38;Zła
+367;Nowy samochód;Bardzo niskie;M;Samotna(y);Wynajem;Umysłowy;49;41;Zła
+368;Meble;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;25;26;Zła
+369;Nowy samochód;Wysokie;M;Samotna(y);Własne;Umysłowy;37;35;Dobra
+370;Używany samochód;Bardzo niskie;M;Samotna(y);Wynajem;Umysłowy;49;45;Zła
+371;Drobne AGD;Bardzo niskie;K;Rozwiedziona(y);Własne;Umysłowy;31;32;Dobra
+372;Używany samochód;Brak;M;Rozwiedziona(y);Wynajem;Umysłowy;25;47;Dobra
+373;Nowy samochód;Bardzo niskie;M;Stały związek;Własne;Fizyczny;13;24;Zła
+374;Meble;Bardzo niskie;M;Rozwiedziona(y);Własne;Fizyczny;31;30;Zła
+375;Drobne AGD;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;43;33;Zła
+376;Meble;Bardzo niskie;K;Rozwiedziona(y);Wynajem;Umysłowy;19;23;Zła
+377;Drobne AGD;Bardzo niskie;K;Rozwiedziona(y);Wynajem;Umysłowy;19;21;Zła
+378;Nowy samochód;Brak;M;Samotna(y);Wynajem;Umysłowy;37;36;Zła
+379;Używany samochód;Brak;M;Samotna(y);Własne;Umysłowy;37;30;Dobra
+380;Nowy samochód;Bardzo niskie;M;Samotna(y);Wynajem;Umysłowy;25;52;Zła
+381;Nowy samochód;Wysokie;M;Stały związek;Własne;Umysłowy;13;27;Zła
+382;Drobne AGD;Bardzo niskie;K;Rozwiedziona(y);Własne;Umysłowy;8;44;Dobra
+383;Drobne AGD;Brak;M;Samotna(y);Własne;Umysłowy;11;26;Dobra
+384;Meble;Niskie;M;Samotna(y);Własne;Umysłowy;25;24;Dobra
+385;Meble;Brak;K;Rozwiedziona(y);Własne;Umysłowy;13;24;Zła
+386;Drobne AGD;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;7;50;Dobra
+387;Drobne AGD;Bardzo niskie;M;Stały związek;Własne;Fizyczny;19;31;Dobra
+388;Business;Bardzo niskie;K;Rozwiedziona(y);Własne;Umysłowy;22;38;Zła
+389;Nowy samochód;Niskie;M;Samotna(y);Własne;Umysłowy;10;28;Zła
+390;Nowy samochód;Bardzo niskie;M;Samotna(y);Własne;Fizyczny;13;48;Dobra
+391;Nowy samochód;Bardzo niskie;M;Samotna(y);Wynajem;Umysłowy;37;56;Zła
+392;Meble;Bardzo niskie;K;Rozwiedziona(y);Własne;Umysłowy;7;31;Zła
+393;Drobne AGD;Bardzo wysokie;K;Rozwiedziona(y);Własne;Umysłowy;22;28;Dobra
+394;Edukacja;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;41;26;Zła
+395;Business;Niskie;K;Rozwiedziona(y);Wynajem;Fizyczny;31;25;Zła
+396;Business;Bardzo niskie;K;Rozwiedziona(y);Wynajem;Umysłowy;28;41;Zła
+397;Nowy samochód;Brak;K;Rozwiedziona(y);Wynajem;Umysłowy;23;24;Dobra
+398;Używany samochód;Brak;M;Samotna(y);Własne;Umysłowy;13;29;Dobra
+399;Używany samochód;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;37;25;Zła
+400;Większe AGD;Wysokie;M;Samotna(y);Własne;Umysłowy;16;35;Dobra
+401;Meble;Bardzo niskie;M;Samotna(y);Własne;Fizyczny;7;35;Dobra
+402;Business;Niskie;M;Samotna(y);Własne;Fizyczny;25;26;Dobra
+403;Meble;Brak;M;Samotna(y);Własne;Umysłowy;40;29;Dobra
+404;Nowy samochód;Bardzo niskie;M;Samotna(y);Własne;Fizyczny;25;59;Zła
+405;Edukacja;Bardzo niskie;K;Rozwiedziona(y);Wynajem;Umysłowy;7;34;Zła
+406;Używany samochód;Bardzo niskie;M;Samotna(y);Wynajem;Umysłowy;37;41;Dobra
+407;Nowy samochód;Bardzo niskie;M;Rozwiedziona(y);Własne;Umysłowy;13;35;Zła
+408;Meble;Bardzo niskie;M;Samotna(y);Wynajem;Umysłowy;13;27;Dobra
+409;Meble;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;19;41;Zła
+410;Używany samochód;Brak;K;Rozwiedziona(y);Wynajem;Umysłowy;11;30;Dobra
+411;Nowy samochód;Bardzo niskie;M;Stały związek;Własne;Umysłowy;31;27;Zła
+412;Drobne AGD;Wysokie;K;Rozwiedziona(y);Własne;Fizyczny;10;65;Dobra
+413;Meble;Bardzo niskie;K;Rozwiedziona(y);Wynajem;Umysłowy;19;19;Zła
+414;Nowy samochód;Bardzo niskie;K;Rozwiedziona(y);Własne;Umysłowy;37;33;Zła
+415;Meble;Bardzo niskie;K;Rozwiedziona(y);Wynajem;Umysłowy;13;24;Zła
+416;Używany samochód;Bardzo niskie;M;Stały związek;Wynajem;Umysłowy;13;40;Dobra
+417;Używany samochód;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;25;62;Dobra
+418;Edukacja;Bardzo niskie;K;Rozwiedziona(y);Wynajem;Fizyczny;25;33;Zła
+419;Nowy samochód;Bardzo niskie;M;Stały związek;Własne;Umysłowy;22;29;Dobra
+420;Nowy samochód;Niskie;K;Rozwiedziona(y);Własne;Fizyczny;13;22;Zła
+421;Drobne AGD;Brak;M;Samotna(y);Wynajem;Umysłowy;7;35;Dobra
+422;Meble;Brak;M;Samotna(y);Własne;Umysłowy;31;30;Zła
+423;Nowy samochód;Brak;K;Rozwiedziona(y);Własne;Umysłowy;25;28;Zła
+424;Nowy samochód;Bardzo niskie;K;Rozwiedziona(y);Własne;Umysłowy;16;28;Zła
+425;Nowy samochód;Bardzo niskie;M;Samotna(y);Własne;Umysłowy;7;44;Dobra
